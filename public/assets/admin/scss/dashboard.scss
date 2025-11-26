@@ -1,0 +1,294 @@
+.BoldText {
+    span {
+        color: var(--pink) !important;
+        font-size: 22px;
+        font-weight: 600;
+    }
+}
+.dashboard_wrapper {
+
+    .ProfileSection {
+        display: flex;
+        align-items: center;
+        margin-bottom: 60px;
+        @media (max-width: 767px) {
+            flex-wrap: wrap;
+        }
+        .ProfileImgBox {
+            width: 196px;
+            height: 196px;
+            background: #FFFFFF;
+            box-shadow: 0px 3px 6px #00000029;
+            border-radius: 50%;
+            padding: 40px;
+            z-index: 1;
+            @media (max-width: 767px) {
+                width: 140px;
+                height: 140px;
+                padding: 20px;
+                margin: 0 auto;
+                position: relative;
+                bottom: -52px;
+            }
+            img {
+                width: 100%;
+                height: 100%;
+                object-fit: contain;
+            }
+        }
+        .ProfileDetails {
+            width: 700px;
+            max-width: 100%;
+            background: #1A305A;
+            border-radius: 25px;
+            height: 175px;
+            margin-left: -150px;
+            display: flex;
+            justify-content: space-between;
+            padding-left: 175px;
+            padding-right: 24px;
+            @media (max-width:768px) {
+                width: 100%;
+            }
+            @media (max-width: 767px) {
+                height: auto;
+                flex-wrap: wrap;
+                margin-left: 0;
+                padding: 50px 20px 20px 20px;
+            }
+            h1 {
+                text-align: left;
+                color: white;
+                font-size: 28px;
+                line-height: 44px;
+                font-weight: 600;
+                letter-spacing: 0px;
+                margin: 30px 0 0 0;
+                padding: 0;
+                @media (max-width: 767px) {
+                    margin: 20px 0 0 0;
+                    font-size: 20px;
+                    line-height: 34px;
+                }
+            }
+            h4 {
+                text-align: left;
+                font-size: 26px;
+                color: #fff;
+                font-weight: normal;
+                margin: 0;
+                padding: 0;
+                @media (max-width: 767px) {
+                    font-size: 18px;
+                }
+            }
+            .LogoutSection {
+                padding-top: 70px;
+                @media (max-width: 767px) {
+                    padding-top: 20px;
+                    margin: 0 auto;
+                }
+                p {
+                    font-size: 12px;
+                    color: #fff;
+                    font-weight: normal;
+                    text-align: center;
+                    margin: 0;
+                    padding: 0 0 5px 0;
+                }
+                .LogoutTime {
+                    display: flex;
+                    align-items: center;
+                    width: 170px;
+                    height: 44px;
+                    background: #E1003E;
+                    border-radius: 18px;
+                    h5 {
+                        font-size: 20px;
+                        color: #FDEC07;
+                        font-weight: 500;
+                        margin: 0;
+                        padding: 0 0 0 10px;
+                    }
+                }
+            }
+        }
+    }
+
+    .CardList {
+        display: flex;
+        flex-wrap: wrap;
+        margin-bottom: 60px;
+        li {
+            background: #FFFFFF;
+            box-shadow: 0px 0px 4px #0000001F;
+            border-radius: 12px;
+            width: 291px;
+            max-width: 100%;
+            text-align: center;
+            margin-right: 28px;
+            padding: 40px 10px;
+            margin-bottom: 30px;
+            &:last-child {
+                margin-right: 0;
+            }
+            @media (max-width: 1200px) {
+                width: 30%;
+            }
+            @media (max-width: 767px) {
+                width: 100%;
+                margin-right: 0;
+            }
+            p {
+                font-size: 15px;
+                line-height: 22px;
+                letter-spacing: 0px;
+                color: #838383;
+                margin: 0;
+                padding: 0;
+            }
+            h4 {
+                font-size: 26px;
+                line-height: normal;
+                font-weight: 700;
+                letter-spacing: 0px;
+                color: #E1003E;
+                margin: 0;
+                padding: 0;
+            }
+        }
+    }
+
+    .HeadingWrapper {
+        width: 400px;
+        max-width: 100%;
+        .MainHeading {
+            margin: 0 0 10px 0;
+        }
+        img {
+            margin: 0 auto;
+            display: block;
+        }
+    }
+
+    .CustomSearch {
+        width: 568px;
+        max-width: 100%;
+        margin-top: 40px;
+        .CustomSearchWrap {
+            display: flex;
+            align-items: center;
+            justify-content: space-between;
+            box-shadow: 0px 0px 4px #0000001f !important;
+            border-radius: 10px;
+            padding-right: 24px;
+            position: relative;
+            ::-webkit-input-placeholder { /* Edge */
+            color: #6E0D88;
+            }
+            
+            :-ms-input-placeholder { /* Internet Explorer 10-11 */
+            color: #6E0D88;
+            }
+            
+            ::placeholder {
+            color: #6E0D88;
+            }
+            input {
+            font-weight: 600;
+            font-size: 22px;
+            letter-spacing: -0.44px;
+            color: #6E0D88;
+            background: #FFFFFF;
+            height: 55px;
+            width: 100%;
+            padding: 0 24px;
+            border: 0;
+            border-radius: 10px;
+            }
+            button {
+                border: 0;
+                padding: 0;
+                background-color: transparent;
+            }
+            .float {
+                font-weight: 600;
+                font-size: 22px;
+                letter-spacing: -0.44px;
+                color: #6E0D88;
+                transition: all .3s ease-in-out;
+                position: absolute;
+                left: 20px;
+                
+            }
+            
+            .labelup {
+                font-weight: 600;
+                font-size: 20px;
+                letter-spacing: -0.44px;
+                color: #6E0D88;
+                -webkit-transition: all .3s ease-in-out;
+                transition: all .3s ease-in-out;
+                margin-top: -64px;
+                background-color: #fff;
+                padding: 10px 14px;
+                z-index: 99;
+            }
+        }
+    }
+    .SearchOutput {
+        font-weight: 500;
+        font-size: 18px;
+        letter-spacing: -0.44px;
+        color: #838383;
+        list-style: none;
+        box-shadow: 0px 0px 4px #0000001f !important;
+        border-radius: 10px;
+        padding: 24px;
+        display: none;
+        li {
+            padding: 10px 0;
+            display: flex;
+            cursor: pointer;
+            img {
+                margin-right: 20px;
+                width: 34px;
+            }
+            .PinkText {
+                color: #E1003E;
+            }
+        }
+    }
+    .SearchOutputResult {
+        background-color: #F8F8F8;
+        border-radius: 4px;
+        width: 100%;
+        padding: 20px;
+        text-align: center;
+        cursor: pointer;
+        p {
+            font-size: 14px;
+            letter-spacing: -0.44px;
+            color: #E1003E;
+        }
+        img {
+            margin-bottom: 10px;
+            width: 60px;
+        }
+        h2 {
+            font-weight: 700;
+            font-size: 22px;
+            letter-spacing: -0.44px;
+            color: #6E0D88;
+            margin: 0 0 5px 0;
+        }
+        h5 {
+            font-size: 15px;
+            letter-spacing: -0.44px;
+            color: #707070;
+        }
+    }
+}
+
+
+    

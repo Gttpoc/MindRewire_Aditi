@@ -1,0 +1,164 @@
+[18-Jul-2025 04:45:35 UTC] PHP Warning:  require(/home/ahvmt0d58za5/public_html/public/../vendor/autoload.php): Failed to open stream: No such file or directory in /home/ahvmt0d58za5/public_html/public/index.php on line 34
+[18-Jul-2025 04:45:35 UTC] PHP Fatal error:  Uncaught Error: Failed opening required '/home/ahvmt0d58za5/public_html/public/../vendor/autoload.php' (include_path='.:/opt/alt/php83/usr/share/pear:/opt/alt/php83/usr/share/php:/usr/share/pear:/usr/share/php') in /home/ahvmt0d58za5/public_html/public/index.php:34
+Stack trace:
+#0 {main}
+  thrown in /home/ahvmt0d58za5/public_html/public/index.php on line 34
+[18-Jul-2025 04:45:38 UTC] PHP Warning:  require(/home/ahvmt0d58za5/public_html/public/../vendor/autoload.php): Failed to open stream: No such file or directory in /home/ahvmt0d58za5/public_html/public/index.php on line 34
+[18-Jul-2025 04:45:38 UTC] PHP Fatal error:  Uncaught Error: Failed opening required '/home/ahvmt0d58za5/public_html/public/../vendor/autoload.php' (include_path='.:/opt/alt/php83/usr/share/pear:/opt/alt/php83/usr/share/php:/usr/share/pear:/usr/share/php') in /home/ahvmt0d58za5/public_html/public/index.php:34
+Stack trace:
+#0 {main}
+  thrown in /home/ahvmt0d58za5/public_html/public/index.php on line 34
+[18-Jul-2025 04:47:27 UTC] PHP Warning:  require(/home/ahvmt0d58za5/public_html/public/../vendor/autoload.php): Failed to open stream: No such file or directory in /home/ahvmt0d58za5/public_html/public/index.php on line 34
+[18-Jul-2025 04:47:27 UTC] PHP Fatal error:  Uncaught Error: Failed opening required '/home/ahvmt0d58za5/public_html/public/../vendor/autoload.php' (include_path='.:/opt/alt/php83/usr/share/pear:/opt/alt/php83/usr/share/php:/usr/share/pear:/usr/share/php') in /home/ahvmt0d58za5/public_html/public/index.php:34
+Stack trace:
+#0 {main}
+  thrown in /home/ahvmt0d58za5/public_html/public/index.php on line 34
+[18-Jul-2025 04:48:15 UTC] PHP Warning:  require(/home/ahvmt0d58za5/public_html/public/../vendor/autoload.php): Failed to open stream: No such file or directory in /home/ahvmt0d58za5/public_html/public/index.php on line 34
+[18-Jul-2025 04:48:15 UTC] PHP Fatal error:  Uncaught Error: Failed opening required '/home/ahvmt0d58za5/public_html/public/../vendor/autoload.php' (include_path='.:/opt/alt/php83/usr/share/pear:/opt/alt/php83/usr/share/php:/usr/share/pear:/usr/share/php') in /home/ahvmt0d58za5/public_html/public/index.php:34
+Stack trace:
+#0 {main}
+  thrown in /home/ahvmt0d58za5/public_html/public/index.php on line 34
+[18-Jul-2025 04:48:15 UTC] PHP Warning:  require(/home/ahvmt0d58za5/public_html/public/../vendor/autoload.php): Failed to open stream: No such file or directory in /home/ahvmt0d58za5/public_html/public/index.php on line 34
+[18-Jul-2025 04:48:15 UTC] PHP Fatal error:  Uncaught Error: Failed opening required '/home/ahvmt0d58za5/public_html/public/../vendor/autoload.php' (include_path='.:/opt/alt/php83/usr/share/pear:/opt/alt/php83/usr/share/php:/usr/share/pear:/usr/share/php') in /home/ahvmt0d58za5/public_html/public/index.php:34
+Stack trace:
+#0 {main}
+  thrown in /home/ahvmt0d58za5/public_html/public/index.php on line 34
+[18-Jul-2025 04:48:16 UTC] PHP Warning:  require(/home/ahvmt0d58za5/public_html/public/../vendor/autoload.php): Failed to open stream: No such file or directory in /home/ahvmt0d58za5/public_html/public/index.php on line 34
+[18-Jul-2025 04:48:16 UTC] PHP Fatal error:  Uncaught Error: Failed opening required '/home/ahvmt0d58za5/public_html/public/../vendor/autoload.php' (include_path='.:/opt/alt/php83/usr/share/pear:/opt/alt/php83/usr/share/php:/usr/share/pear:/usr/share/php') in /home/ahvmt0d58za5/public_html/public/index.php:34
+Stack trace:
+#0 {main}
+  thrown in /home/ahvmt0d58za5/public_html/public/index.php on line 34
+[18-Jul-2025 04:48:16 UTC] PHP Warning:  require(/home/ahvmt0d58za5/public_html/public/../vendor/autoload.php): Failed to open stream: No such file or directory in /home/ahvmt0d58za5/public_html/public/index.php on line 34
+[18-Jul-2025 04:48:16 UTC] PHP Fatal error:  Uncaught Error: Failed opening required '/home/ahvmt0d58za5/public_html/public/../vendor/autoload.php' (include_path='.:/opt/alt/php83/usr/share/pear:/opt/alt/php83/usr/share/php:/usr/share/pear:/usr/share/php') in /home/ahvmt0d58za5/public_html/public/index.php:34
+Stack trace:
+#0 {main}
+  thrown in /home/ahvmt0d58za5/public_html/public/index.php on line 34
+[18-Jul-2025 04:48:16 UTC] PHP Warning:  require(/home/ahvmt0d58za5/public_html/public/../vendor/autoload.php): Failed to open stream: No such file or directory in /home/ahvmt0d58za5/public_html/public/index.php on line 34
+[18-Jul-2025 04:48:16 UTC] PHP Fatal error:  Uncaught Error: Failed opening required '/home/ahvmt0d58za5/public_html/public/../vendor/autoload.php' (include_path='.:/opt/alt/php83/usr/share/pear:/opt/alt/php83/usr/share/php:/usr/share/pear:/usr/share/php') in /home/ahvmt0d58za5/public_html/public/index.php:34
+Stack trace:
+#0 {main}
+  thrown in /home/ahvmt0d58za5/public_html/public/index.php on line 34
+[18-Jul-2025 04:48:16 UTC] PHP Warning:  require(/home/ahvmt0d58za5/public_html/public/../vendor/autoload.php): Failed to open stream: No such file or directory in /home/ahvmt0d58za5/public_html/public/index.php on line 34
+[18-Jul-2025 04:48:16 UTC] PHP Fatal error:  Uncaught Error: Failed opening required '/home/ahvmt0d58za5/public_html/public/../vendor/autoload.php' (include_path='.:/opt/alt/php83/usr/share/pear:/opt/alt/php83/usr/share/php:/usr/share/pear:/usr/share/php') in /home/ahvmt0d58za5/public_html/public/index.php:34
+Stack trace:
+#0 {main}
+  thrown in /home/ahvmt0d58za5/public_html/public/index.php on line 34
+[18-Jul-2025 04:48:16 UTC] PHP Warning:  require(/home/ahvmt0d58za5/public_html/public/../vendor/autoload.php): Failed to open stream: No such file or directory in /home/ahvmt0d58za5/public_html/public/index.php on line 34
+[18-Jul-2025 04:48:16 UTC] PHP Fatal error:  Uncaught Error: Failed opening required '/home/ahvmt0d58za5/public_html/public/../vendor/autoload.php' (include_path='.:/opt/alt/php83/usr/share/pear:/opt/alt/php83/usr/share/php:/usr/share/pear:/usr/share/php') in /home/ahvmt0d58za5/public_html/public/index.php:34
+Stack trace:
+#0 {main}
+  thrown in /home/ahvmt0d58za5/public_html/public/index.php on line 34
+[18-Jul-2025 04:48:16 UTC] PHP Warning:  require(/home/ahvmt0d58za5/public_html/public/../vendor/autoload.php): Failed to open stream: No such file or directory in /home/ahvmt0d58za5/public_html/public/index.php on line 34
+[18-Jul-2025 04:48:16 UTC] PHP Fatal error:  Uncaught Error: Failed opening required '/home/ahvmt0d58za5/public_html/public/../vendor/autoload.php' (include_path='.:/opt/alt/php83/usr/share/pear:/opt/alt/php83/usr/share/php:/usr/share/pear:/usr/share/php') in /home/ahvmt0d58za5/public_html/public/index.php:34
+Stack trace:
+#0 {main}
+  thrown in /home/ahvmt0d58za5/public_html/public/index.php on line 34
+[18-Jul-2025 04:48:16 UTC] PHP Warning:  require(/home/ahvmt0d58za5/public_html/public/../vendor/autoload.php): Failed to open stream: No such file or directory in /home/ahvmt0d58za5/public_html/public/index.php on line 34
+[18-Jul-2025 04:48:16 UTC] PHP Fatal error:  Uncaught Error: Failed opening required '/home/ahvmt0d58za5/public_html/public/../vendor/autoload.php' (include_path='.:/opt/alt/php83/usr/share/pear:/opt/alt/php83/usr/share/php:/usr/share/pear:/usr/share/php') in /home/ahvmt0d58za5/public_html/public/index.php:34
+Stack trace:
+#0 {main}
+  thrown in /home/ahvmt0d58za5/public_html/public/index.php on line 34
+[18-Jul-2025 04:48:17 UTC] PHP Warning:  require(/home/ahvmt0d58za5/public_html/public/../vendor/autoload.php): Failed to open stream: No such file or directory in /home/ahvmt0d58za5/public_html/public/index.php on line 34
+[18-Jul-2025 04:48:17 UTC] PHP Fatal error:  Uncaught Error: Failed opening required '/home/ahvmt0d58za5/public_html/public/../vendor/autoload.php' (include_path='.:/opt/alt/php83/usr/share/pear:/opt/alt/php83/usr/share/php:/usr/share/pear:/usr/share/php') in /home/ahvmt0d58za5/public_html/public/index.php:34
+Stack trace:
+#0 {main}
+  thrown in /home/ahvmt0d58za5/public_html/public/index.php on line 34
+[18-Jul-2025 04:48:17 UTC] PHP Warning:  require(/home/ahvmt0d58za5/public_html/public/../vendor/autoload.php): Failed to open stream: No such file or directory in /home/ahvmt0d58za5/public_html/public/index.php on line 34
+[18-Jul-2025 04:48:17 UTC] PHP Fatal error:  Uncaught Error: Failed opening required '/home/ahvmt0d58za5/public_html/public/../vendor/autoload.php' (include_path='.:/opt/alt/php83/usr/share/pear:/opt/alt/php83/usr/share/php:/usr/share/pear:/usr/share/php') in /home/ahvmt0d58za5/public_html/public/index.php:34
+Stack trace:
+#0 {main}
+  thrown in /home/ahvmt0d58za5/public_html/public/index.php on line 34
+[18-Jul-2025 04:50:50 UTC] PHP Warning:  require(/home/ahvmt0d58za5/public_html/public/../vendor/autoload.php): Failed to open stream: No such file or directory in /home/ahvmt0d58za5/public_html/public/index.php on line 34
+[18-Jul-2025 04:50:50 UTC] PHP Fatal error:  Uncaught Error: Failed opening required '/home/ahvmt0d58za5/public_html/public/../vendor/autoload.php' (include_path='.:/opt/alt/php83/usr/share/pear:/opt/alt/php83/usr/share/php:/usr/share/pear:/usr/share/php') in /home/ahvmt0d58za5/public_html/public/index.php:34
+Stack trace:
+#0 {main}
+  thrown in /home/ahvmt0d58za5/public_html/public/index.php on line 34
+[18-Jul-2025 04:54:05 UTC] PHP Warning:  require(/home/ahvmt0d58za5/public_html/public/../vendor/autoload.php): Failed to open stream: No such file or directory in /home/ahvmt0d58za5/public_html/public/index.php on line 34
+[18-Jul-2025 04:54:05 UTC] PHP Fatal error:  Uncaught Error: Failed opening required '/home/ahvmt0d58za5/public_html/public/../vendor/autoload.php' (include_path='.:/opt/alt/php83/usr/share/pear:/opt/alt/php83/usr/share/php:/usr/share/pear:/usr/share/php') in /home/ahvmt0d58za5/public_html/public/index.php:34
+Stack trace:
+#0 {main}
+  thrown in /home/ahvmt0d58za5/public_html/public/index.php on line 34
+[18-Jul-2025 04:54:06 UTC] PHP Warning:  require(/home/ahvmt0d58za5/public_html/public/../vendor/autoload.php): Failed to open stream: No such file or directory in /home/ahvmt0d58za5/public_html/public/index.php on line 34
+[18-Jul-2025 04:54:06 UTC] PHP Fatal error:  Uncaught Error: Failed opening required '/home/ahvmt0d58za5/public_html/public/../vendor/autoload.php' (include_path='.:/opt/alt/php83/usr/share/pear:/opt/alt/php83/usr/share/php:/usr/share/pear:/usr/share/php') in /home/ahvmt0d58za5/public_html/public/index.php:34
+Stack trace:
+#0 {main}
+  thrown in /home/ahvmt0d58za5/public_html/public/index.php on line 34
+[18-Jul-2025 04:54:06 UTC] PHP Warning:  require(/home/ahvmt0d58za5/public_html/public/../vendor/autoload.php): Failed to open stream: No such file or directory in /home/ahvmt0d58za5/public_html/public/index.php on line 34
+[18-Jul-2025 04:54:06 UTC] PHP Fatal error:  Uncaught Error: Failed opening required '/home/ahvmt0d58za5/public_html/public/../vendor/autoload.php' (include_path='.:/opt/alt/php83/usr/share/pear:/opt/alt/php83/usr/share/php:/usr/share/pear:/usr/share/php') in /home/ahvmt0d58za5/public_html/public/index.php:34
+Stack trace:
+#0 {main}
+  thrown in /home/ahvmt0d58za5/public_html/public/index.php on line 34
+[18-Jul-2025 04:54:06 UTC] PHP Warning:  require(/home/ahvmt0d58za5/public_html/public/../vendor/autoload.php): Failed to open stream: No such file or directory in /home/ahvmt0d58za5/public_html/public/index.php on line 34
+[18-Jul-2025 04:54:06 UTC] PHP Fatal error:  Uncaught Error: Failed opening required '/home/ahvmt0d58za5/public_html/public/../vendor/autoload.php' (include_path='.:/opt/alt/php83/usr/share/pear:/opt/alt/php83/usr/share/php:/usr/share/pear:/usr/share/php') in /home/ahvmt0d58za5/public_html/public/index.php:34
+Stack trace:
+#0 {main}
+  thrown in /home/ahvmt0d58za5/public_html/public/index.php on line 34
+[18-Jul-2025 04:54:06 UTC] PHP Warning:  require(/home/ahvmt0d58za5/public_html/public/../vendor/autoload.php): Failed to open stream: No such file or directory in /home/ahvmt0d58za5/public_html/public/index.php on line 34
+[18-Jul-2025 04:54:06 UTC] PHP Fatal error:  Uncaught Error: Failed opening required '/home/ahvmt0d58za5/public_html/public/../vendor/autoload.php' (include_path='.:/opt/alt/php83/usr/share/pear:/opt/alt/php83/usr/share/php:/usr/share/pear:/usr/share/php') in /home/ahvmt0d58za5/public_html/public/index.php:34
+Stack trace:
+#0 {main}
+  thrown in /home/ahvmt0d58za5/public_html/public/index.php on line 34
+[18-Jul-2025 04:54:07 UTC] PHP Warning:  require(/home/ahvmt0d58za5/public_html/public/../vendor/autoload.php): Failed to open stream: No such file or directory in /home/ahvmt0d58za5/public_html/public/index.php on line 34
+[18-Jul-2025 04:54:07 UTC] PHP Fatal error:  Uncaught Error: Failed opening required '/home/ahvmt0d58za5/public_html/public/../vendor/autoload.php' (include_path='.:/opt/alt/php83/usr/share/pear:/opt/alt/php83/usr/share/php:/usr/share/pear:/usr/share/php') in /home/ahvmt0d58za5/public_html/public/index.php:34
+Stack trace:
+#0 {main}
+  thrown in /home/ahvmt0d58za5/public_html/public/index.php on line 34
+[18-Jul-2025 04:54:07 UTC] PHP Warning:  require(/home/ahvmt0d58za5/public_html/public/../vendor/autoload.php): Failed to open stream: No such file or directory in /home/ahvmt0d58za5/public_html/public/index.php on line 34
+[18-Jul-2025 04:54:07 UTC] PHP Fatal error:  Uncaught Error: Failed opening required '/home/ahvmt0d58za5/public_html/public/../vendor/autoload.php' (include_path='.:/opt/alt/php83/usr/share/pear:/opt/alt/php83/usr/share/php:/usr/share/pear:/usr/share/php') in /home/ahvmt0d58za5/public_html/public/index.php:34
+Stack trace:
+#0 {main}
+  thrown in /home/ahvmt0d58za5/public_html/public/index.php on line 34
+[18-Jul-2025 04:54:07 UTC] PHP Warning:  require(/home/ahvmt0d58za5/public_html/public/../vendor/autoload.php): Failed to open stream: No such file or directory in /home/ahvmt0d58za5/public_html/public/index.php on line 34
+[18-Jul-2025 04:54:07 UTC] PHP Fatal error:  Uncaught Error: Failed opening required '/home/ahvmt0d58za5/public_html/public/../vendor/autoload.php' (include_path='.:/opt/alt/php83/usr/share/pear:/opt/alt/php83/usr/share/php:/usr/share/pear:/usr/share/php') in /home/ahvmt0d58za5/public_html/public/index.php:34
+Stack trace:
+#0 {main}
+  thrown in /home/ahvmt0d58za5/public_html/public/index.php on line 34
+[18-Jul-2025 05:08:10 UTC] PHP Warning:  require(/home/ahvmt0d58za5/public_html/public/../vendor/autoload.php): Failed to open stream: No such file or directory in /home/ahvmt0d58za5/public_html/public/index.php on line 34
+[18-Jul-2025 05:08:10 UTC] PHP Fatal error:  Uncaught Error: Failed opening required '/home/ahvmt0d58za5/public_html/public/../vendor/autoload.php' (include_path='.:/opt/alt/php81/usr/share/pear:/opt/alt/php81/usr/share/php:/usr/share/pear:/usr/share/php') in /home/ahvmt0d58za5/public_html/public/index.php:34
+Stack trace:
+#0 {main}
+  thrown in /home/ahvmt0d58za5/public_html/public/index.php on line 34
+[18-Jul-2025 05:08:12 UTC] PHP Warning:  require(/home/ahvmt0d58za5/public_html/public/../vendor/autoload.php): Failed to open stream: No such file or directory in /home/ahvmt0d58za5/public_html/public/index.php on line 34
+[18-Jul-2025 05:08:12 UTC] PHP Fatal error:  Uncaught Error: Failed opening required '/home/ahvmt0d58za5/public_html/public/../vendor/autoload.php' (include_path='.:/opt/alt/php81/usr/share/pear:/opt/alt/php81/usr/share/php:/usr/share/pear:/usr/share/php') in /home/ahvmt0d58za5/public_html/public/index.php:34
+Stack trace:
+#0 {main}
+  thrown in /home/ahvmt0d58za5/public_html/public/index.php on line 34
+[18-Jul-2025 05:08:12 UTC] PHP Warning:  require(/home/ahvmt0d58za5/public_html/public/../vendor/autoload.php): Failed to open stream: No such file or directory in /home/ahvmt0d58za5/public_html/public/index.php on line 34
+[18-Jul-2025 05:08:12 UTC] PHP Fatal error:  Uncaught Error: Failed opening required '/home/ahvmt0d58za5/public_html/public/../vendor/autoload.php' (include_path='.:/opt/alt/php81/usr/share/pear:/opt/alt/php81/usr/share/php:/usr/share/pear:/usr/share/php') in /home/ahvmt0d58za5/public_html/public/index.php:34
+Stack trace:
+#0 {main}
+  thrown in /home/ahvmt0d58za5/public_html/public/index.php on line 34
+[18-Jul-2025 05:08:12 UTC] PHP Warning:  require(/home/ahvmt0d58za5/public_html/public/../vendor/autoload.php): Failed to open stream: No such file or directory in /home/ahvmt0d58za5/public_html/public/index.php on line 34
+[18-Jul-2025 05:08:12 UTC] PHP Fatal error:  Uncaught Error: Failed opening required '/home/ahvmt0d58za5/public_html/public/../vendor/autoload.php' (include_path='.:/opt/alt/php81/usr/share/pear:/opt/alt/php81/usr/share/php:/usr/share/pear:/usr/share/php') in /home/ahvmt0d58za5/public_html/public/index.php:34
+Stack trace:
+#0 {main}
+  thrown in /home/ahvmt0d58za5/public_html/public/index.php on line 34
+[18-Jul-2025 05:08:24 UTC] PHP Warning:  require(/home/ahvmt0d58za5/public_html/public/../vendor/autoload.php): Failed to open stream: No such file or directory in /home/ahvmt0d58za5/public_html/public/index.php on line 34
+[18-Jul-2025 05:08:24 UTC] PHP Fatal error:  Uncaught Error: Failed opening required '/home/ahvmt0d58za5/public_html/public/../vendor/autoload.php' (include_path='.:/opt/alt/php81/usr/share/pear:/opt/alt/php81/usr/share/php:/usr/share/pear:/usr/share/php') in /home/ahvmt0d58za5/public_html/public/index.php:34
+Stack trace:
+#0 {main}
+  thrown in /home/ahvmt0d58za5/public_html/public/index.php on line 34
+[18-Jul-2025 05:09:29 UTC] PHP Warning:  require(/home/ahvmt0d58za5/public_html/public/../vendor/autoload.php): Failed to open stream: No such file or directory in /home/ahvmt0d58za5/public_html/public/index.php on line 34
+[18-Jul-2025 05:09:29 UTC] PHP Fatal error:  Uncaught Error: Failed opening required '/home/ahvmt0d58za5/public_html/public/../vendor/autoload.php' (include_path='.:/opt/alt/php81/usr/share/pear:/opt/alt/php81/usr/share/php:/usr/share/pear:/usr/share/php') in /home/ahvmt0d58za5/public_html/public/index.php:34
+Stack trace:
+#0 {main}
+  thrown in /home/ahvmt0d58za5/public_html/public/index.php on line 34
+[18-Jul-2025 05:09:30 UTC] PHP Warning:  require(/home/ahvmt0d58za5/public_html/public/../vendor/autoload.php): Failed to open stream: No such file or directory in /home/ahvmt0d58za5/public_html/public/index.php on line 34
+[18-Jul-2025 05:09:30 UTC] PHP Fatal error:  Uncaught Error: Failed opening required '/home/ahvmt0d58za5/public_html/public/../vendor/autoload.php' (include_path='.:/opt/alt/php81/usr/share/pear:/opt/alt/php81/usr/share/php:/usr/share/pear:/usr/share/php') in /home/ahvmt0d58za5/public_html/public/index.php:34
+Stack trace:
+#0 {main}
+  thrown in /home/ahvmt0d58za5/public_html/public/index.php on line 34
+[18-Jul-2025 05:09:30 UTC] PHP Warning:  require(/home/ahvmt0d58za5/public_html/public/../vendor/autoload.php): Failed to open stream: No such file or directory in /home/ahvmt0d58za5/public_html/public/index.php on line 34
+[18-Jul-2025 05:09:30 UTC] PHP Fatal error:  Uncaught Error: Failed opening required '/home/ahvmt0d58za5/public_html/public/../vendor/autoload.php' (include_path='.:/opt/alt/php81/usr/share/pear:/opt/alt/php81/usr/share/php:/usr/share/pear:/usr/share/php') in /home/ahvmt0d58za5/public_html/public/index.php:34
+Stack trace:
+#0 {main}
+  thrown in /home/ahvmt0d58za5/public_html/public/index.php on line 34
+[22-Jul-2025 09:26:51 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/ahvmt0d58za5/public_html/app/constant.php on line 21
+[22-Jul-2025 09:26:51 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/ahvmt0d58za5/public_html/app/constant.php on line 22
+[22-Jul-2025 09:26:51 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/ahvmt0d58za5/public_html/app/constant.php on line 23
+[26-Jul-2025 05:36:34 UTC] PHP Warning:  Undefined array key "countryCode" in /home/ahvmt0d58za5/public_html/app/constant.php on line 21
+[26-Jul-2025 05:36:34 UTC] PHP Warning:  Undefined array key "region" in /home/ahvmt0d58za5/public_html/app/constant.php on line 22
+[26-Jul-2025 05:36:34 UTC] PHP Warning:  Undefined array key "currency" in /home/ahvmt0d58za5/public_html/app/constant.php on line 23
+[26-Jul-2025 05:36:34 UTC] PHP Warning:  Undefined array key "countryCode" in /home/ahvmt0d58za5/public_html/app/constant.php on line 21
+[26-Jul-2025 05:36:34 UTC] PHP Warning:  Undefined array key "region" in /home/ahvmt0d58za5/public_html/app/constant.php on line 22
+[26-Jul-2025 05:36:34 UTC] PHP Warning:  Undefined array key "currency" in /home/ahvmt0d58za5/public_html/app/constant.php on line 23
