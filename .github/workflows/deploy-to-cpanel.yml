@@ -1,0 +1,41 @@
+name: Deploy to cPanel (via SSH)
+
+on:
+  push:
+    branches:
+      - main
+
+jobs:
+  deploy:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+
+      - name: Prepare deploy key
+        run: |
+          mkdir -p ~/.ssh
+          echo "${{ secrets.CPANEL_DEPLOY_KEY }}" > ~/.ssh/deploy_key
+          chmod 600 ~/.ssh/deploy_key
+          ssh-keyscan -H github.com >> ~/.ssh/known_hosts
+          ssh-keyscan -H sg2plzcpnl509270.prod.sin2.secureserver.net >> ~/.ssh/known_hosts
+
+      - name: Deploy to cPanel
+        uses: appleboy/ssh-action@v0.1.10
+        with:
+          host: sg2plzcpnl509270.prod.sin2.secureserver.net
+          username: ahvmt0d58za5
+          key: ${{ secrets.CPANEL_DEPLOY_KEY }}
+          port: 22
+          script: |
+            set -e
+            cd /home/ahvmt0d58za5/public_html || exit 1
+            git fetch --all
+            git reset --hard origin/main
+            git clean -fd
+            # If you need composer, uncomment the next lines:
+            # if [ -f composer.json ]; then composer install --no-interaction --prefer-dist --optimize-autoloader; fi
+            # If you need npm build, uncomment:
+            # if [ -f package.json ]; then npm ci && npm run build; fi
+
