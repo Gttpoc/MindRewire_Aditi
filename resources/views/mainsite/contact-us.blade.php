@@ -76,7 +76,7 @@
                                 <div class="listtype">
                                     <a>
                                         Mind Rewire, Park Ivory, Park Street, Wakad, Mumbai, Maharashtra, India -
-                                        411056
+                                        411
                                     </a>
                                 </div>
                             </div>
